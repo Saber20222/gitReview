@@ -6,6 +6,7 @@ public class gitReview01 {
 		//github excercise 
 		System.out.print("today we learn github review");
 		System.out.print("today is a very good dAY review");
+		System.out.println("Today is a very good day ");
 	}
 
 }
